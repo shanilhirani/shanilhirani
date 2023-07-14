@@ -7,7 +7,7 @@ I've been working in the Public Cloud space as Cloud Developer/Engineer in varyi
 I build, break and fix on **AWS** and **Azure**, occasionally like to tinker with **GCP**.
 
 ### How long have I been doing things in IT:
-- Overall 10 Years but a little over 4.5 in Cloud/Devops
+- Professionally, ~10 years but a little over 4.5 years in the Cloud/Devops Space
 
 ### What I've learned along the way:
 - Public Cloud (AWS, Azure & GCP) 
@@ -18,4 +18,4 @@ I build, break and fix on **AWS** and **Azure**, occasionally like to tinker wit
 - SysAdmin (Windows) and VirtualAdmin (VMWare, Hyper-V)
 
 ### Want to read more?
-- Contact via LinkedIn
+- Contact via LinkedIn where you'll see Certs, Skills and Experience.
