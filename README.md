@@ -19,10 +19,6 @@ For over a decade, I've held various titles, but now, I specialize in Cloud/DevO
 - CI/CD (GitHub, Gitlab, and even Jenkins)
 - SysAdmin (Windows) and VirtualAdmin (VMWare, Hyper-V)
 
-### Contact
-
-LinkedIn
-
 ### Technical Certifications 
 <!--START_SECTION:badges-->
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/96x96/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/61e2d409-572e-4a9a-9f19-aea5d44dda71 "AWS Certified DevOps Engineer – Professional")
@@ -34,3 +30,7 @@ LinkedIn
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/96x96/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/34fa217d-fbd3-4cb5-ac14-f050d260c4c4 "AWS Certified Solutions Architect – Associate")
 [![Microsoft Certified: Azure Administrator Associate (Legacy)](https://images.credly.com/size/96x96/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png)](http://www.credly.com/badges/6316f802-5968-4b32-871b-798fea643fa1 "Microsoft Certified: Azure Administrator Associate (Legacy)")
 <!--END_SECTION:badges-->
+
+### Contact
+
+LinkedIn
