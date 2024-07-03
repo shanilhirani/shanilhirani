@@ -19,6 +19,10 @@ For over a decade, I've held various titles, but now, I specialize in Cloud/DevO
 - CI/CD (GitHub, Gitlab, and even Jenkins)
 - SysAdmin (Windows) and VirtualAdmin (VMWare, Hyper-V)
 
-### Want to read more?
+### Contact
 
-Contact me via LinkedIn, where you'll find information on Certifications, Skills, and Experience.
+LinkedIn
+
+### Technical Certifications 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
