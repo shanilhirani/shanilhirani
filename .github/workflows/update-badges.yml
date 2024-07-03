@@ -22,5 +22,5 @@ jobs:
             COMMIT_MESSAGE: "feat(badges): update technical certifcations"
             CREDLY_USER: shanilhirani
             CREDLY_SORT: RECENT
-            BADGE_SIZE: 110x110
+            BADGE_SIZE: 96
             NUMBER_LAST_BADGES: 0
