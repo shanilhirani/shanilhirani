@@ -21,6 +21,11 @@ For over a decade, I've held various titles, but now, I specialize in Cloud/DevO
 
 ### Technical Certifications 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/96x96/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/79b92905-77d6-426a-96e5-31866e42963b "AWS Knowledge: Networking Core")
+[![Well-Architected Proficient](https://images.credly.com/size/96x96/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/28894acc-2550-4d64-ac6d-6bc10ef19baf "Well-Architected Proficient")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/96x96/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/475830d0-4e74-45aa-afea-ca0690f2d7a2 "AWS Knowledge: Architecting")
+[![AWS Certified Security – Specialty](https://images.credly.com/size/96x96/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/5a7fab29-7350-4c01-809e-8dabd5a72d0d "AWS Certified Security – Specialty")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/96x96/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/52060e7f-c8f9-4b51-9a53-a5a17e610b80 "AWS Knowledge: Cloud Essentials")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/96x96/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/61e2d409-572e-4a9a-9f19-aea5d44dda71 "AWS Certified DevOps Engineer – Professional")
 [![Professional Cloud Architect Certification](https://images.credly.com/size/96x96/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/62c96236-9cfc-40e1-8c7b-6e39ac033ab3 "Professional Cloud Architect Certification")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/96x96/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/1c0266ac-079a-4990-96f4-1b6e2cdab56f "AWS Certified Solutions Architect – Professional")
