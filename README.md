@@ -19,7 +19,7 @@ For over a decade, I've held various titles, but now, I specialize in Cloud/DevO
 - CI/CD (GitHub, Gitlab, and even Jenkins)
 - SysAdmin (Windows) and VirtualAdmin (VMWare, Hyper-V)
 
-### Technical Certifications 
+### Technical Certifications & Training
 <!--START_SECTION:badges-->
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/96x96/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/79b92905-77d6-426a-96e5-31866e42963b "AWS Knowledge: Networking Core")
 [![Well-Architected Proficient](https://images.credly.com/size/96x96/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/28894acc-2550-4d64-ac6d-6bc10ef19baf "Well-Architected Proficient")
@@ -38,4 +38,4 @@ For over a decade, I've held various titles, but now, I specialize in Cloud/DevO
 
 ### Contact
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/shanilhirani/)
