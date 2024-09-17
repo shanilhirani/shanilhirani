@@ -12,10 +12,11 @@ Over the years, I've built a versatile skill set across multiple tools and platf
 
 - **Cloud Platforms**: AWS, Azure, GCP  
 - **Infrastructure as Code**: Terraform, CloudFormation  
-- **Configuration Management**: Ansible, Packer  
-- **Scripting and Automation**: Bash, PowerShell (PoSH)  
+- **Configuration Management**: Ansible, Packer, Chef, Puppet  
+- **Scripting and Automation**: Bash, PowerShell, Python and Golang  
 - **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins  
-- **Systems Administration**: Windows SysAdmin, VMWare, Hyper-V
+- **Systems Administration**: Windows Server
+- **Virtualisation** VMWare, Hyper-V
 
 ### ⏳ My Journey in Tech
 
