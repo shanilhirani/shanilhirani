@@ -1,23 +1,31 @@
-## Hello, Hi! 👋 
+## Hello, Hi! 👋
 
-I've been working as a Cloud Developer / DevOps Engineer in various sectors, including the Public Sector (UK Govt), UK Financial Services, Energy, and Logistics.
+I'm a **Cloud Developer** and **DevOps Engineer** with over a decade of experience, having worked across multiple sectors including the **Public Sector (UK Govt)**, **UK Financial Services**, **Energy**, and **Logistics**. My passion is helping teams and individuals navigate the ever-evolving world of cloud computing, automating infrastructure, and building scalable, reliable solutions.
 
-### What I Do
+### 🚀 What I Do
 
-I design, build, and assist people on their cloudy journey. While I'm cloud-agnostic, I personally prefer working with **AWS** and **GCP**. Occasionally, I like to tinker with **Azure**.
+I design, build, and guide others on their **cloudy journey**—whether it’s scaling apps, automating workflows, or deploying infrastructure. While I remain **cloud-agnostic**, I’m particularly fond of working with **AWS** and **Google Cloud Platform (GCP)**, though I’ve been known to tinker with **Azure** when needed.
 
-### How long have I been in Tech
+### 🛠️ Skills and Tools of the Trade
 
-For over a decade, I've held various titles, but now, I specialize in Cloud/DevOps/Automation.
+Over the years, I've built a versatile skill set across multiple tools and platforms, allowing me to adapt to different environments and challenges:
 
-### What I've learned along the way
+- **Cloud Platforms**: AWS, Azure, GCP  
+- **Infrastructure as Code**: Terraform, CloudFormation  
+- **Configuration Management**: Ansible, Packer  
+- **Scripting and Automation**: Bash, PowerShell (PoSH)  
+- **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins  
+- **Systems Administration**: Windows SysAdmin, VMWare, Hyper-V
 
-- Public Cloud (AWS, Azure & GCP)
-- Infrastructure as Code (Terraform & Cloudformation)
-- Configuration Management (Packer & Ansible)
-- Shell/Scripting (Bash and PoSH)
-- CI/CD (GitHub, Gitlab, and even Jenkins)
-- SysAdmin (Windows) and VirtualAdmin (VMWare, Hyper-V)
+### ⏳ My Journey in Tech
+
+I've been immersed in the world of technology for **over a decade**. During that time, I’ve worn many hats—from traditional sysadmin roles to cloud-native engineering. Today, I specialise in **Cloud, DevOps, and Automation**—helping organizations embrace modern cloud infrastructure and streamline operations with smart automation techniques.
+
+### 🌱 Continuous Learning
+
+The cloud is always evolving, and I’m constantly learning new ways to design more efficient, scalable systems. Whether it’s the latest advancements in serverless architecture, multi-cloud strategies, or container orchestration—I’m all about continuous improvement.
+
+
 
 ### Technical Certifications & Training
 <!--START_SECTION:badges-->
