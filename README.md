@@ -1,6 +1,6 @@
 ## Hello, Hi! 👋
 
-I'm a **Cloud Developer** and **DevOps Engineer** with over a decade of experience, having worked across multiple sectors including the **Public Sector (UK Govt)**, **UK Financial Services**, **Energy**, and **Logistics**. My passion is helping teams and individuals navigate the ever-evolving world of cloud computing, automating infrastructure, and building scalable, reliable solutions.
+I'm a **Cloud Developer** and **DevOps Engineer** with over a **decade** of experience, having worked across multiple sectors including the **Public Sector (UK Govt)**, **UK Financial Services**, **Energy**, and **Logistics**. My passion is helping teams and individuals navigate the ever-evolving world of cloud computing, automating infrastructure, and building scalable, reliable solutions.
 
 ### 🚀 What I Do
 
