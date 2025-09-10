@@ -1,6 +1,8 @@
 ## Hello, Hi! 👋
 
-I'm a **Cloud Developer** and **DevOps Engineer** with over a **decade** of experience, having worked across multiple sectors including the **Public Sector (UK Govt)**, **UK Financial Services**, **Energy**, and **Logistics**. My passion is helping teams and individuals navigate the ever-evolving world of cloud computing, automating infrastructure, and building scalable, reliable solutions.
+I'm a **Senior Consultant** with over a **decade** of experience, having worked across multiple sectors including the **Public Sector (UK Gov)**, **UK Financial Services**, **Energy**, and **Logistics** across **Cloud Infrastructure**, **Platform Engineering** and **Solutions Architecture**. 
+
+My passion is helping teams and individuals navigate the ever-evolving world of cloud computing, automating infrastructure, and building scalable, reliable solutions. 
 
 ### 🚀 What I Do
 
@@ -11,12 +13,13 @@ I design, build, and guide others on their **cloudy journey**—whether it’s s
 Over the years, I've built a versatile skill set across multiple tools and platforms, allowing me to adapt to different environments and challenges:
 
 - **Cloud Platforms**: AWS, Azure, GCP  
-- **Infrastructure as Code**: Terraform, CloudFormation  
+- **Infrastructure as Code**: Terraform, CloudFormation 
 - **Configuration Management**: Ansible, Packer, Chef, Puppet  
 - **Scripting and Automation**: Bash, PowerShell, Python and Golang  
 - **CI/CD Pipelines**: GitHub Actions, GitLab CI, Jenkins  
-- **Systems Administration**: Windows Server
-- **Virtualisation** VMWare, Hyper-V
+- **Systems Administration**: Windows Server, RHEL
+- **Virtualisation** VMWare, Hyper-V, Proxmox, KVM
+- **Containerisation**: Docker, Kubernetes
 
 ### ⏳ My Journey in Tech
 
